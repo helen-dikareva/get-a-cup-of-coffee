@@ -1,0 +1,22 @@
+{
+  "name": "get-a-cup-of-coffee",
+  "version": "1.0.0",
+  "description": "A demonstrative TestCafe test that orders a cup of coffee",
+  "main": "test.js",
+  "scripts": {
+    "test": "testcafe all test.js -e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevExpress/testcafe.git"
+  },
+  "author": "Developer Express Inc. (https://devexpress.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevExpress/testcafe/issues"
+  },
+  "homepage": "https://github.com/DevExpress/testcafe#readme",
+  "devDependencies": {
+    "testcafe": "*"
+  }
+}
